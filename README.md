@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 Hi, I'm Aline!
 
 I'm a journalist, lifelong-learner and now I'm learning JavaScript.
