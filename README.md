@@ -1,11 +1,8 @@
-Hi, I'm Aline!
-
-I'm a journalist, lifelong-learner and now I'm learning JavaScript.
-
+🔭 Hi, I'm Aline!
+I'm a journalist, lifelong-learner and 
+🌱 I'm learning JavaScript.
 I'm looking for a job.
-
-I also like to write, listen to music, read books and learn new languages.
-
+💬 I also like to write, listen to music, read books and learn new languages.
 
 
 
