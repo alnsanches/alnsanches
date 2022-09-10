@@ -32,8 +32,9 @@
 ## :game_die:	Social
 
 <a href="https://www.linkedin.com/in/alnsanches/" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin&logoColor=007ACC" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
+
 
  
 
