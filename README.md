@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=alnsanches&color=blue" alt="Profile views" align="right" />
 
-<h1 align="left">Hi, I'm Aline Sanches :wave:	</h1>
+<h1 align="left">Hello, World! <br> I'm Aline Sanches :wave:	</h1>
 
 - 🔭 Learning JavaScript
 
