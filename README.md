@@ -1,10 +1,21 @@
 <img src="https://komarev.com/ghpvc/?username=alnsanches&color=blue" alt="Profile views" align="right" />
 
-<h1 align="left">Hello, World! <br> I'm Aline Sanches :wave:	</h1>
+<h1 align="center">Hello, World! <br> I'm Aline Sanches :wave:	</h1>
+
+
 
 - 🔭 Learning JavaScript
 
 <br />
+
+## ⚙️ Github Stats
+
+<div align="center">
+    <a href="https://github.com/alnsanches">
+    <img src="https://github-readme-stats.vercel.app/api?username=alnsanches&count_private=true&show_icons=true&theme=github_dark" height="172em" style="max-width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnsanches&layout=compact&theme=github_dark" height="172em" style="max-width: 100%;" />
+  </a>
+</div>
 
 ## :computer:	Tech Stack
 
@@ -18,14 +29,7 @@
       <img align="center" alt="CANVA" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  <br>
 
-## ⚙️ Github Stats
 
-<div align="center">
-    <a href="https://github.com/alnsanches">
-    <img src="https://github-readme-stats.vercel.app/api?username=alnsanches&count_private=true&show_icons=true&theme=github_dark" height="172em" style="max-width: 100%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnsanches&layout=compact&theme=github_dark" height="172em" style="max-width: 100%;" />
-  </a>
-</div>
 
 <br />
 
