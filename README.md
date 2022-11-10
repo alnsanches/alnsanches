@@ -8,8 +8,6 @@
 </div>
 
 
-- 🔭 Learning JavaScript
-
 <br />
 
 ## ⚙️ Github Stats
