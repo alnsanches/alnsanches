@@ -2,6 +2,10 @@
 
 <h1 align="center">Hello, World! <br> I'm Aline Sanches :wave:	</h1>
 
+<div style="display: flex; flexdirection: row; text-align: left;">
+<p>Meu nome é Aline e sou formada em Jornalismo com pós graduação em Gestão de Mídias Digitais. Já trabalhei em outras áreas, mas resolvi me aventurar no mundo da programação e tenho gostado bastante. Estou buscando fazer minha transição de carreira para a área de tecnologia. Tenho estudado no meu tempo livre as linguagens mais utilizadas no front-end, tendo já um pouco de experiência com HTML, CSS e estou aprendendo Javascript. Tenho feito alguns cursos na área para ir me aperfeiçando e espero conseguir minha vaga júnior em breve. </p>
+<!-- <img src="https://user-images.githubusercontent.com/96800792/201219290-1bba7605-ffa4-44ad-9b27-c729b6ee8c94.png" align="right" width="40%" /> -->
+</div>
 
 
 - 🔭 Learning JavaScript
