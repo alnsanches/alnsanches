@@ -1,11 +1,35 @@
 <img src="https://komarev.com/ghpvc/?username=alnsanches&color=blue" alt="Profile views" align="right" />
 
+
 <h1 align="center">Hello, World! <br> I'm Aline Sanches :wave:	</h1>
 
-<div style="display: flex; flexdirection: row; text-align: left;">
-<p>Meu nome é Aline e sou formada em Jornalismo com pós graduação em Gestão de Mídias Digitais. Já trabalhei em outras áreas, mas resolvi me aventurar no mundo da programação e tenho gostado bastante. Estou buscando fazer minha transição de carreira para a área de tecnologia. Tenho estudado no meu tempo livre as linguagens mais utilizadas no front-end, tendo já um pouco de experiência com HTML, CSS e estou aprendendo Javascript. Tenho feito alguns cursos na área para ir me aperfeiçando e espero conseguir minha vaga júnior em breve. </p>
-<!-- <img src="https://user-images.githubusercontent.com/96800792/201219290-1bba7605-ffa4-44ad-9b27-c729b6ee8c94.png" align="right" width="40%" /> -->
-</div>
+<img src="https://user-images.githubusercontent.com/96800792/201474166-56b6841c-92cf-4e80-a787-2bbcc1bd7fff.png" min-width="400px" max-width="400px" width="400px" align="right" alt="My version lofi">
+
+<p align="left"> 
+  Meu nome é Aline e sou formada em Jornalismo com pós graduação em Gestão de Mídias Digitais. Já trabalhei em outras áreas, mas resolvi me aventurar no mundo da programação e tenho gostado bastante. Estou buscando fazer minha transição de carreira para a área de tecnologia. Tenho estudado no meu tempo livre as linguagens mais utilizadas no front-end, tendo já um pouco de experiência com HTML, CSS e estou aprendendo Javascript. Tenho feito alguns cursos na área para ir me aperfeiçando e espero conseguir minha vaga júnior em breve.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS, Javascript</strong>
+</p>
+
+<!-- <p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>-->
+
+<p align="left">
+  💌 Entre em contato comigo via: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:alnsanches@yahoo.com.br" target="_blank" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link" /></a>
+
+  <a href="https://www.linkedin.com/in/alnsanches/" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link" /></a>
+
+  
+</p> 
 
 
 <br />
@@ -72,5 +96,5 @@
     
   ## 📧 Contact
  
-  <a href = "mailto:alnsanches@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-8e44ad?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
+  <a href = "mailto:alnsanches@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-8e44ad?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
   
