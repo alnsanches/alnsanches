@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="mailto:alnsanches@yahoo.com.br" target="_blank" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link" /></a>
+  <img src="https://img.shields.io/badge/-Yahoo Mail-8e44ad?style=flat-square&labelColor=8e44ad&logo=gmail&logoColor=white&link" /></a>
 
   <a href="https://www.linkedin.com/in/alnsanches/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link" /></a>
